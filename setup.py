@@ -6,9 +6,9 @@ def readme():
 
 setup(
     name='lptp',
-    version='1.0.1',
+    version='1.0.2',
     author='zoomdev',
-    author_email='zoomdeveloper@ayandex.ru',
+    author_email='zoomdeveloper@yandex.ru',
     description='Данный протокол является протоколом RPC вида и служит для вызова процедур на удалённом сервере. Проект является исключительно учебным и не рекомендуется для реального использования.',
     long_description=readme(),
     long_description_content_type='text/markdown',
